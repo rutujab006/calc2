@@ -36,3 +36,4 @@ def test_calculator_division():
     calc = Calculator()
     result = calc.divide_numbers(1,1)
     assert result == 1
+    
