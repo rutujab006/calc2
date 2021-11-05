@@ -8,4 +8,3 @@ class Subtraction(Calculation):
         """This is subtraction class"""
         return self.value_a - self.value_b
 
-
