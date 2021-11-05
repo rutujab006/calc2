@@ -7,4 +7,4 @@ class Subtraction(Calculation):
     def get_result(self):
         """This is subtraction class"""
         return self.value_a - self.value_b
-    
+
