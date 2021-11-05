@@ -61,3 +61,4 @@ class   Calculator:
         Calculator.add_calculation_to_history(Division.create(value_a, value_b))
         return Calculator.get_last_calculation_result()
     
+
