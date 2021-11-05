@@ -75,3 +75,4 @@ def test_calculator_division_exception():
     """ Testing division exception for division by zero"""
     with pytest.raises(ZeroDivisionError):
         Calculator.divide_numbers(1,0)
+
