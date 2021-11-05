@@ -1,5 +1,5 @@
 # Calculator Project Setup
-[![Build Status](https://github.com/rutujab006/calc2/tree/calpart-2)](https://app.travis-ci.com/rutujab006/calc2)
+[![Build Status](https://app.travis-ci.com/rutujab006/calc2.svg?branch=calpart-2)](https://app.travis-ci.com/rutujab006/calc2)
 
 Run Pip Install
 pip install -r requirements.txt
