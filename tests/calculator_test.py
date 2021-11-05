@@ -76,3 +76,4 @@ def test_calculator_division_exception():
     with pytest.raises(ZeroDivisionError):
         Calculator.divide_numbers(1,0)
 
+
