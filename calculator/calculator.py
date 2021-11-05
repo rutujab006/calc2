@@ -39,7 +39,7 @@ class   Calculator:
     @staticmethod
     def add_number(value_a, value_b):
         """ Instantiating  Addition object and passing value a and value b to the constructor"""
-        #This is using a factory create method to return an instance of the class
+
         Calculator.add_calculation_to_history(Addition.create(value_a,value_b))
         return Calculator.get_last_calculation_result()
 
@@ -57,7 +57,6 @@ class   Calculator:
 
     @staticmethod
     def divide_numbers( value_a, value_b):
-        """ divide two numbers and store the result"""
+        """ we divide 2 numbers and store the result"""
         Calculator.add_calculation_to_history(Division.create(value_a, value_b))
         return Calculator.get_last_calculation_result()
-    
