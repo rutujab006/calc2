@@ -11,4 +11,3 @@ class Addition(Calculation):
         for value in self.values:
             sum_of_values = value + sum_of_values
         return sum_of_values
-
