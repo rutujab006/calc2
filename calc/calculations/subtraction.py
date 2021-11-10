@@ -12,3 +12,4 @@ class Subtraction(Calculation):
             difference_of_values =   difference_of_values - value
             pprint.pprint(value)
         return difference_of_values
+

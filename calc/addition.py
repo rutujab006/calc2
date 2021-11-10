@@ -8,3 +8,4 @@ class Addition(Calculation):
         """This is addition class"""
         return self.value_a + self.value_b
 
+

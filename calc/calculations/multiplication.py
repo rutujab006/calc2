@@ -9,3 +9,4 @@ class Multiplication(Calculation):
         for value in self.values:
             result = result * value
         return result
+
