@@ -1,6 +1,6 @@
 """This is division operation object"""
 
-from calc.calculation import Calculation
+from calc.calculations.calculation import Calculation
 
 class Division(Calculation):
     """This is division class"""

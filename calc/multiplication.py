@@ -1,6 +1,6 @@
 """This is multiplication operation object"""
 
-from calc.calculation import Calculation
+from calc.calculations.calculation import Calculation
 
 class Multiplication(Calculation):
     """This is multiplication class"""
