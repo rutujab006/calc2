@@ -31,3 +31,4 @@ class Calculator:
         calculation = Division(args)
         Calculations.add_calculation(calculation)
         return calculation.get_result()
+

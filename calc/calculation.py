@@ -20,3 +20,4 @@ class Calculation:
     def value_b(self):
         """Getter For Value B"""
         return self._value_b
+
