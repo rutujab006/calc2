@@ -35,6 +35,8 @@ def test_calculation_addition():
         except ZeroDivisionError:
             with pytest.raises(ZeroDivisionError):
                 # logger.info(f'Filename:{filename} - Record Number:{record_num}')
-                logger.error(f'Filename:{filename} - Record Number:{record_num}' "  Zero Division Error occurred")
+                message=(f'Filename:{filename}-Record Number:{record_num}' 
+                         "Zero Division Error occurred")
+                logger.error(message)
                     # return appendFile
                 assert division.get_result() is True

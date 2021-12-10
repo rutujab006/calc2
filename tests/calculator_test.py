@@ -14,4 +14,3 @@ def test_convert_args_to_list_float():
 def test_get_result():
     """Testing the overridden method of super class + abstract class and method"""
     assert Calculation.get_result(self=None) is True
-    
