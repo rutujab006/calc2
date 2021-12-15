@@ -35,9 +35,8 @@ setup.py is a config file for pytest
 #div result
 ![div page](https://raw.githubusercontent.com/rutujab006/calc2/final_project/web_screenshots/Screenshot%20(92).png)
 #tables
-![table page](web_screenshot/Screenshot%20(39).png)
-#oops 
-![oops page](web_screenshot/Screenshot%20(40).png)
+![table page](https://github.com/rutujab006/calc2/blob/final_project/web_screenshots/csv.png)
+
 
 
 
