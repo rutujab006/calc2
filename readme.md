@@ -22,7 +22,6 @@ setup.py is a config file for pytest
 
 #Calculator home page
 
-![home page](web_screenshot/Screenshot%20(28).png)
 #addition page
 ![addition page](https://github.com/rutujab006/calc2/blob/final_project/web_screenshots/Screenshot%20(93).png?raw=true)
 #addition result
