@@ -6,7 +6,7 @@
 
 ### -Created by Rutuja Bendre
 
-### [Calculator](https://youtu.be/WfqhQGAwGXc)
+### [Calculator]
 
 #Calculator home page
 
